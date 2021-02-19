@@ -1,4 +1,4 @@
-package main.java.FirstPlay;
+package FirstPlay;
 
 import java.util.Arrays;
 import java.util.List;
