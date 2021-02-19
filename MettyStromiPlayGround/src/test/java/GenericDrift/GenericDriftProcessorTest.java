@@ -1,8 +1,6 @@
-package GenericDrift;
+package test.java.GenericDrift;
 
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class GenericDriftProcessorTest {
 

@@ -1,4 +1,4 @@
-package ContestHelper;
+package main.java.ContestHelper;
 
 import java.util.Arrays;
 import java.util.List;
