@@ -1,4 +1,4 @@
-package FirstPlay;
+package ContestHelper;
 
 import java.util.Arrays;
 import java.util.List;
